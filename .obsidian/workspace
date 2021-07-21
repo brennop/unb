@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "e6b5e4135b8ea9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0579965142affb50",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a91ca86a7fe63214",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f82cc22e212f045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68ab972170dad3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e437f631d038e0ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a35030982dbd6609",
+    "type": "split",
+    "children": [
+      {
+        "id": "3154e06887186ca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6c85b6d2021b1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ddecbba2b80011a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "969b98a1cb74d4fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0579965142affb50",
+  "lastOpenFiles": [
+    "Computação.md",
+    "Untitled.md",
+    "automatos/Untitled.md"
+  ]
+}
