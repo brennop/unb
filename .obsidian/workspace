@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "automatos/Computação.md",
+            "file": "grafos/grafos.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automatos/Computação.md",
+                "file": "grafos/grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automatos/Computação.md"
+                "file": "grafos/grafos.md"
               }
             }
           }
@@ -110,6 +110,8 @@
   },
   "active": "0579965142affb50",
   "lastOpenFiles": [
+    "grafos/grafos.md",
+    "grafos/Untitled.md",
     "automatos/Computação.md",
     "Untitled.md",
     "README.md",
