@@ -14,6 +14,6 @@ Um grafo G é uma tripla ordenada *(V(G), E(G), w)* onde
 - Um grafo é finito se ambos V e E são **finitos**
 - Arestas são **adjacentes** se elas compartilham um mesmo vértice terminal
 - Arestas são **paralelas** se possuem os mesmos vértices terminais
-- Uma aresta da forma (v, v) é um **laço** ➰
+- Uma aresta da forma *(v, v)* é um **laço** ➰
 - Um grafo é simples se não possui **laços** sem **arestas paralelas**
-- O **grau** de um vértice d(v)
+- O **grau** de um vértice *d(v)* é o número de arestas com v sendo terminal
