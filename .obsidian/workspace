@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "grafos/grafos.md",
+            "file": "automatos/operacoes-regulares.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grafos/grafos.md",
+                "file": "automatos/operacoes-regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grafos/grafos.md"
+                "file": "automatos/operacoes-regulares.md"
               }
             }
           }
@@ -110,12 +110,15 @@
   },
   "active": "0579965142affb50",
   "lastOpenFiles": [
+    "automatos/operacoes-regulares.md",
+    "automatos/af.md",
+    "automatos/computacao.md",
+    "automatos/Untitled.md",
+    "Untitled.md",
+    "automatos/Autômatos Finitos.md",
+    "automatos/Computação.md",
     "grafos/grafos.md",
     "grafos/Untitled.md",
-    "automatos/Computação.md",
-    "Untitled.md",
-    "README.md",
-    "Computação.md",
-    "automatos/Untitled.md"
+    "README.md"
   ]
 }

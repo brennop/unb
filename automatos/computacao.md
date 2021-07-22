@@ -5,4 +5,6 @@ Seja M = (Q, Σ, δ, q0, F) um autômato finito e suponha que w = w₁w₂ ··�
 para i = 0, . . . , n − 1, e
 3. rₙ ∈ F.
 
+## Linguagem Regular
+
 > Uma linguagem chamada de uma ***linguagem regular*** se algum autômato finito a reconhece
