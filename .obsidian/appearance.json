@@ -1,7 +1,5 @@
 {
   "baseFontSize": 16,
   "obsidianCss": false,
-  "enabledCssSnippets": [
-    "mono"
-  ]
+  "enabledCssSnippets": []
 }
