@@ -17,6 +17,10 @@
 
 ### Teorema
 
-Para todo *AFD* existe um *AFN* [equivalente][1].
+> Para todo *AFD* existe um *AFN* [[computacao#Equivalência|equivalente]].
 
-[1]: [[computacao#Equivalência]]
+ver também: [[fecho-epsilon]]
+
+#### Corolário
+
+> Uma linguagem é [[computacao#Linguagem Regular|regular]] *se, e somente se* um AFN a reconhece.

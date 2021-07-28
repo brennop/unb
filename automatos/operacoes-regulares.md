@@ -6,7 +6,7 @@ Operações sobre linguagens. ([[definicoes#Linguagem]])
 
 > A ∪ B = { x | x ∊ A ou x ∊ B }
 
-- A classe das linguagens regulares ([[computacao#Linguagem Regular]]) é fechada sobre a operação de união.
+- A classe das [[computacao#Linguagem Regular|linguagens regulares]] é fechada sobre a operação de união.
 
 ## Concatenação
 
