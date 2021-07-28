@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0579965142affb50",
+        "id": "6912b4a72b2235e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "grafos/grafos.md",
-            "mode": "source"
+            "file": "grafos/isomorfismo.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grafos/grafos.md",
+                "file": "grafos/isomorfismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grafos/grafos.md"
+                "file": "grafos/isomorfismo.md"
               }
             }
           }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0579965142affb50",
+  "active": "6912b4a72b2235e2",
   "lastOpenFiles": [
-    "grafos/grafos.md",
     "grafos/Untitled.md",
+    "grafos/subgrafos.md",
+    "grafos/grafos.md",
+    "grafos/inbox.md",
     "Untitled.md",
     "automatos/operacoes-regulares.md",
     "automatos/af.md",
     "automatos/computacao.md",
     "automatos/Untitled.md",
-    "automatos/Autômatos Finitos.md",
-    "automatos/Computação.md",
-    "README.md"
+    "automatos/Autômatos Finitos.md"
   ]
 }
