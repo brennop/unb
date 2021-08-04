@@ -1,18 +1,18 @@
 # Operações Regulares
 
-Operações sobre linguagens. ([[definicoes#Linguagem]])
+Operações sobre [[definicoes#Linguagem|linguagens]].
 
 ## União
 
-> A ∪ B = { x | x ∊ A ou x ∊ B }
+> A ∪ B = { x | x ∈ A ∨ x ∈ B }
 
 - A classe das [[computacao#Linguagem Regular|linguagens regulares]] é fechada sobre a operação de união.
 
 ## Concatenação
 
-> A ○ B = { xy | x ∊ A e x ∊ B }
+> A ○ B = { xy | x ∈ A ∧ x ∈ B }
 
-- A classe das linguagens regulares ([[computacao#Linguagem Regular]]) é fechada sobre a operação de concatenação.
+- A classe das [[computacao#Linguagem Regular|linguagens regulares]] é fechada sobre a operação de concatenação.
 
 ## Estrela
 

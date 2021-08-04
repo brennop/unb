@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "automatos/determinismo.md",
+            "file": "automatos/operacoes-regulares.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "automatos/determinismo.md",
+            "file": "automatos/operacoes-regulares.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automatos/determinismo.md",
+                "file": "automatos/operacoes-regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automatos/determinismo.md"
+                "file": "automatos/operacoes-regulares.md"
               }
             }
           }
@@ -123,9 +124,9 @@
   },
   "active": "e409b2583eee2e91",
   "lastOpenFiles": [
+    "automatos/operacoes-regulares.md",
     "automatos/determinismo.md",
     "automatos/computacao.md",
-    "automatos/operacoes-regulares.md",
     "automatos/af.md",
     "Untitled.md",
     "automatos/Untitled.md",

@@ -4,7 +4,8 @@
 > 
 > 1. V(G) é um conjunto de vértices
 > 2. E(G) é um conjunto de [arestas]
-> 3. w: E -> V² é uma função que associa cada aresta um par ordenado de vértices
+> 3. w: E -> V² é uma função que associa cada aresta um par ordenado de 
+> vértices
 
 ## Terminologias
 
@@ -19,7 +20,8 @@
 - Um grafo é **simples** se não possui *laços* sem *arestas paralelas*
 
 - O **grau** de um vértice *d(v)* é o número de arestas com v sendo terminal
-- Um grafo G é **regular** se todos os vértices de G tiverem o mesmo grau. Se o grau for r, então G será *regular de grau r*.
+- Um grafo G é **regular** se todos os vértices de G tiverem o mesmo grau. Se o
+  grau for r, então G será *regular de grau r*.
 
-- Um grafo *simples* com todas as arestas possíveis é um grafo completo: $K_n$
+- Um grafo *simples* com todas as arestas possíveis é um grafo **completo**: $K_n$
 

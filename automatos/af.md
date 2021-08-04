@@ -8,7 +8,7 @@ Um autômato finito é uma 5-upla (Q, Σ, δ, q₀, F), onde
 
 1. Q é um conjunto finito denominado os estados,
 2. Σ é um conjunto finito denominado o alfabeto,
-3. δ: Q × Σ → Q é a funcão de transição
+3. δ: Q × Σ → Q é a função de transição,
 4. q₀ ∈ Q é o estado inicial, e
 5. F ⊆ Q é o conjunto de estados de aceitação.
 
