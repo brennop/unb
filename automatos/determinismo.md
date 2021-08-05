@@ -9,7 +9,8 @@
 - Podem existir ≥ 0 estados possíveis
 - Todas as possibilidades são processadas em paralelo
 
-> Um autômato *não-determinístico* M aceita uma cadeia *w* se existe um caminho que leva a um estado de aceitação
+> Um autômato *não-determinístico* M aceita uma cadeia *w* se existe um caminho
+> que leva a um estado de aceitação
 
 ### Função de transição 
 
@@ -17,10 +18,10 @@
 
 ### Teorema
 
-> Para todo *AFD* existe um *AFN* [[computacao#Equivalência|equivalente]].
+> Para todo *AFD* existe um *AFN* [equivalente](automatos/regular.md#equivalente).
 
-ver também: [[fecho-epsilon]]
+ver também: [fecho](fecho-epsilon)
 
 #### Corolário
 
-> Uma linguagem é [[computacao#Linguagem Regular|regular]] *se, e somente se* um AFN a reconhece.
+> Uma linguagem é [regular](regular) *se, e somente se* um AFN a reconhece.

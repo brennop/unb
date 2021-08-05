@@ -1,4 +1,5 @@
 # Autômatos Finitos
+
 - Simples
 - Memória Limitada
 
@@ -13,6 +14,7 @@ Um autômato finito é uma 5-upla (Q, Σ, δ, q₀, F), onde
 5. F ⊆ Q é o conjunto de estados de aceitação.
 
 ## Linguagem de M
+
 Se A é o conjunto de todas as cadeias que a máquina *M* aceita, dizemos que 
 
 > *A* é a *linguagem da máquina* *M*,
@@ -22,6 +24,9 @@ ou então
 > *M* reconhece *A*.
 
 ### Observações
+
 - Usamos o termo *aceita* para cadeias e *reconhece* para linguagens. 
-- **Uma máquina pode aceitar várias cadeias, mas ela sempre reconhece somente uma linguagem**. 
-- Se uma máquina não aceita nenhuma linguagem, ela reconhece a linguagem vazia ∅.
+- *Uma máquina pode aceitar várias cadeias, mas ela sempre reconhece somente
+  uma linguagem*. 
+- Se uma máquina não aceita nenhuma linguagem, ela reconhece a linguagem vazia
+  ∅.

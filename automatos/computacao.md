@@ -8,11 +8,3 @@ sequência de estados r₀, r₁, ..., rₙ em Q existe com três condições:
 2. δ(ri, wi+₁) = ri+₁,
 para i = 0, . . . , n − 1, e
 3. rₙ ∈ F.
-
-## Linguagem Regular
-
-> Uma linguagem chamada de uma ***linguagem regular*** se algum autômato finito a reconhece
-
-## Equivalência
-
-> Dois ~autômatos~ são **equivalentes** se reconhecem a mesma *linguagem*.
