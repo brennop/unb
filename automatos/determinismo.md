@@ -12,13 +12,10 @@
 > Um autômato *não-determinístico* M aceita uma cadeia *w* se existe um caminho
 > que leva a um estado de aceitação
 
-### Função de transição 
+### Equivalência
 
-> $\delta: \Sigma_\epsilon \times Q \rightarrow P(Q)$ 
-
-### Teorema
-
-> Para todo *AFD* existe um *AFN* [equivalente](automatos/regular.md#equivalente).
+> Para todo *AFD* existe um *AFN*
+> [equivalente](automatos/regular.md#equivalente).
 
 ver também: [fecho](fecho-epsilon)
 

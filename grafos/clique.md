@@ -1,7 +1,7 @@
 # Clique
 
-> Um **clique** em um grafo não direcionado é um [[subgrafos#Subgrafo Induzido|subgrafo induzido]]
-> [[grafos#Grafos#Terminologias#completo|completo]]
+> Um **clique** em um grafo não direcionado é um [subgrafo induzido](subgrafos#Subgrafo Induzido)
+> [completo](grafos#Grafos#Terminologias#completo)
 
 ---
 

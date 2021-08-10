@@ -23,5 +23,5 @@
 - Um grafo G é **regular** se todos os vértices de G tiverem o mesmo grau. Se o
   grau for r, então G será *regular de grau r*.
 
-- Um grafo *simples* com todas as arestas possíveis é um grafo **completo**: $K_n$
-
+- Um grafo *simples* com todas as arestas possíveis é um grafo **completo**:
+  $K_n$

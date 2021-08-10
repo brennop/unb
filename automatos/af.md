@@ -26,7 +26,6 @@ ou então
 ### Observações
 
 - Usamos o termo *aceita* para cadeias e *reconhece* para linguagens. 
-- *Uma máquina pode aceitar várias cadeias, mas ela sempre reconhece somente
-  uma linguagem*. 
-- Se uma máquina não aceita nenhuma linguagem, ela reconhece a linguagem vazia
-  ∅.
+- *Uma máquina pode aceitar várias cadeias, mas ela sempre reconhece somente uma
+  linguagem*. 
+- Se uma máquina não aceita nenhuma cadeia, ela reconhece a linguagem vazia ∅.
