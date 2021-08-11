@@ -1,7 +1,7 @@
 # Lema do Bombeamento
 
 > Se A é uma linguagem regular, então há um número *p* (comprimento de
-> bombeamento) tal que, se *s* é qualquer string em A de tamanho ≤ *p*, então
+> bombeamento) tal que, se *s* é qualquer string em A de tamanho ≥ *p*, então
 > *s* pode ser dividido na forma *s = xyz*, de forma que
 >
 > 1. pra cada *i* ≥ 0, *xy^iz* ∈ *A*,
