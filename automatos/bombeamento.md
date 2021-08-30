@@ -24,3 +24,13 @@ ou ainda,
 - Todas as linguagens finitas satisfazem o lema do bombeamento.
 - Existem linguagens não regulares que satisfazem o lema do bombeamento- Existem
   linguagens não regulares que satisfazem o lema do bombeamento.
+
+## Lema do Bombeamento (*livre-do-contexto*)
+
+> Se L é uma *linguagem livre-do-contexto*, então há um número *p* (comprimento de
+> bombeamento) tal que, toda cadeia **w ∈ L**, com **|w| ≥ p**, pode ser
+> subdividida na forma **w = uvxyz**, satisfazendo:
+>
+> 1. uvⁱxyⁱz ∈ L, *i=0,1,2,⋯*
+> 2. |vy| > 0
+> 3. |vxy| ≤ p.
