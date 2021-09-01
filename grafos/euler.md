@@ -6,6 +6,12 @@
 - inclui cada vértice pelo menos uma vez
 - inclui cada aresta **somente** uma vez
 
+> Grafo Euleriano: grafo que possui um circuito de Euler
+
+### Condições
+
+- deve ser **conectado**
+- todo vértice deve ter grau *par*
 
 ## Trilha de Euler 
 
