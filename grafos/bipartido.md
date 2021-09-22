@@ -7,3 +7,12 @@
 ## Teorema
 
 > Um grafo é **bipartido** se, e somente se, ele não possuir ciclos ímpares.
+
+## Conjunto Independente
+
+> Um **conjunto independente** é um subconjunto de vértices de um grafo que não
+> possuem arestas ligando-os entre si.
+
+### Teorema
+
+> Um grafo é *bipartido* ⇔ união de dois *conjuntos independentes*
